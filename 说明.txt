@@ -1,0 +1,1 @@
+这个项目是客户端操作，需要facedetection-presenter-qt或者facedetection-qt配合
